@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sergiecode.apirest</groupId>
-	<artifactId>java-crud-api-rest-master</artifactId>
+	<artifactId>apirest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>apirest</name>
 	<description>Desarrollo de apirest</description>
